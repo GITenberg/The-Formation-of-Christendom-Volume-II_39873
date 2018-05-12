@@ -1,0 +1,31 @@
+_repo: The-Formation-of-Christendom-Volume-II_39873
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allies, T. W. (Thomas William)
+    aliases:
+    - Allies, Thomas W.
+    - Allies, Thomas William
+    birthdate: 1813
+    deathdate: 1903
+    gutenberg_agent_id: '33803'
+    url: http://www.gutenberg.org/2009/agents/33803
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_William_Allies
+description: ''
+gutenberg_issued: '2012-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39873'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity'
+- !lcc 'BR'
+- !lcsh 'Christianity -- Miscellanea'
+title: The Formation of Christendom, Volume II
+url: http://www.gutenberg.org/ebooks/39873
